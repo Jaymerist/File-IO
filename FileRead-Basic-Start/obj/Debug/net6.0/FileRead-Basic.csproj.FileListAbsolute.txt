@@ -1,0 +1,15 @@
+C:\Users\mkamiss1\Documents\C3\FileRead-Basic-Start\bin\Debug\net6.0\FileRead-Basic.exe
+C:\Users\mkamiss1\Documents\C3\FileRead-Basic-Start\bin\Debug\net6.0\FileRead-Basic.deps.json
+C:\Users\mkamiss1\Documents\C3\FileRead-Basic-Start\bin\Debug\net6.0\FileRead-Basic.runtimeconfig.json
+C:\Users\mkamiss1\Documents\C3\FileRead-Basic-Start\bin\Debug\net6.0\FileRead-Basic.dll
+C:\Users\mkamiss1\Documents\C3\FileRead-Basic-Start\bin\Debug\net6.0\FileRead-Basic.pdb
+C:\Users\mkamiss1\Documents\C3\FileRead-Basic-Start\obj\Debug\net6.0\FileRead-Basic.csproj.AssemblyReference.cache
+C:\Users\mkamiss1\Documents\C3\FileRead-Basic-Start\obj\Debug\net6.0\FileRead-Basic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkamiss1\Documents\C3\FileRead-Basic-Start\obj\Debug\net6.0\FileRead-Basic.AssemblyInfoInputs.cache
+C:\Users\mkamiss1\Documents\C3\FileRead-Basic-Start\obj\Debug\net6.0\FileRead-Basic.AssemblyInfo.cs
+C:\Users\mkamiss1\Documents\C3\FileRead-Basic-Start\obj\Debug\net6.0\FileRead-Basic.csproj.CoreCompileInputs.cache
+C:\Users\mkamiss1\Documents\C3\FileRead-Basic-Start\obj\Debug\net6.0\FileRead-Basic.dll
+C:\Users\mkamiss1\Documents\C3\FileRead-Basic-Start\obj\Debug\net6.0\refint\FileRead-Basic.dll
+C:\Users\mkamiss1\Documents\C3\FileRead-Basic-Start\obj\Debug\net6.0\FileRead-Basic.pdb
+C:\Users\mkamiss1\Documents\C3\FileRead-Basic-Start\obj\Debug\net6.0\FileRead-Basic.genruntimeconfig.cache
+C:\Users\mkamiss1\Documents\C3\FileRead-Basic-Start\obj\Debug\net6.0\ref\FileRead-Basic.dll

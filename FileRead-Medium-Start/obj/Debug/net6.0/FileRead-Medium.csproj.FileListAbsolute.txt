@@ -1,0 +1,15 @@
+C:\Users\mkamiss1\Documents\C3\FileRead-Medium-Start\obj\Debug\net6.0\FileRead-Medium.csproj.AssemblyReference.cache
+C:\Users\mkamiss1\Documents\C3\FileRead-Medium-Start\obj\Debug\net6.0\FileRead-Medium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mkamiss1\Documents\C3\FileRead-Medium-Start\obj\Debug\net6.0\FileRead-Medium.AssemblyInfoInputs.cache
+C:\Users\mkamiss1\Documents\C3\FileRead-Medium-Start\obj\Debug\net6.0\FileRead-Medium.AssemblyInfo.cs
+C:\Users\mkamiss1\Documents\C3\FileRead-Medium-Start\obj\Debug\net6.0\FileRead-Medium.csproj.CoreCompileInputs.cache
+C:\Users\mkamiss1\Documents\C3\FileRead-Medium-Start\bin\Debug\net6.0\FileRead-Medium.exe
+C:\Users\mkamiss1\Documents\C3\FileRead-Medium-Start\bin\Debug\net6.0\FileRead-Medium.deps.json
+C:\Users\mkamiss1\Documents\C3\FileRead-Medium-Start\bin\Debug\net6.0\FileRead-Medium.runtimeconfig.json
+C:\Users\mkamiss1\Documents\C3\FileRead-Medium-Start\bin\Debug\net6.0\FileRead-Medium.dll
+C:\Users\mkamiss1\Documents\C3\FileRead-Medium-Start\bin\Debug\net6.0\FileRead-Medium.pdb
+C:\Users\mkamiss1\Documents\C3\FileRead-Medium-Start\obj\Debug\net6.0\FileRead-Medium.dll
+C:\Users\mkamiss1\Documents\C3\FileRead-Medium-Start\obj\Debug\net6.0\refint\FileRead-Medium.dll
+C:\Users\mkamiss1\Documents\C3\FileRead-Medium-Start\obj\Debug\net6.0\FileRead-Medium.pdb
+C:\Users\mkamiss1\Documents\C3\FileRead-Medium-Start\obj\Debug\net6.0\FileRead-Medium.genruntimeconfig.cache
+C:\Users\mkamiss1\Documents\C3\FileRead-Medium-Start\obj\Debug\net6.0\ref\FileRead-Medium.dll
